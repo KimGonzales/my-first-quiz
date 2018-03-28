@@ -1,8 +1,9 @@
 ## Objectives
 
-1. Code my first quiz.
+1. Write my first quiz.
 2. Practice initializing, committing and pushing a repo to github from the command line.
-3. Gain an understanding of how different elements are rendered in an md file. 
+3. Practice using different branches. 
+4. Gain a better understanding of markdown markup language and how it is rendered in an md file.
 
 
 ???
@@ -17,9 +18,11 @@
 ( ) `greeting == 5`
 
 ?: Which Ruby method will capitalize the first letter of a string?
+
 ( ) string.capitalize
 ( ) string.upcase
 ( ) string.reverse
 ( ) string.downcase
 
+?: 
 
