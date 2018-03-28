@@ -13,16 +13,23 @@
 ?: How would you assign the value of 5 to a variable called 'five' in Ruby?
 
 ( ) `var five = 5`
-( ) `def 5 = 5` 
+( ) `def 5 = five` 
 ( ) `greeting = 5`
 ( ) `greeting == 5`
 
-?: Which Ruby method will capitalize the first letter of a string?
+?: Which Ruby method will capitalize the first letter of a variable called string?
 
-( ) string.capitalize
-( ) string.upcase
-( ) string.reverse
-( ) string.downcase
+( ) `string.capitalize`
+( ) `string.upcase`
+( ) `string.reverse`
+( ) `string.downcase`
 
-?: 
+?: What is the retun value of the following code snippet? 
+`puts "Hello World!"`
 
+( ) nil
+( ) `Hello World!`
+( ) `hello world`
+( ) `puts Hello World!`
+
+???
